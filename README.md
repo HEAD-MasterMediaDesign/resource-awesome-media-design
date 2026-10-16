@@ -279,7 +279,7 @@ Tech Corner · 2026–2027
 
 ### Molding
 
-- [3D Mold Creator](https://www.solidworks.com/product/3d-mold-creator) - 3D mold design
+- [3D Mold Creator](https://www.solidworks.com/product/3d-mold-creator) - 3D mold design.
 
 ## Spaces 
 
