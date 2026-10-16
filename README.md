@@ -250,6 +250,15 @@ Tech Corner · 2026–2027
 - [Houdini](https://www.sidefx.com/products/houdini/) - Procedural 3D and visual effects, with a free learning version.
 - [Maya](https://www.autodesk.com/products/maya/overview) - 3D modelling and animation for film and games.
 - [SketchUp](https://sketchup.trimble.com/) - Simple 3D modelling for architecture and design.
+- [SheepIt](https://www.sheepit-renderfarm.com/home) - A free distributed render farm for Blender.
+
+### Photogrammetry
+
+- [Meshroom](https://meshroom.org/download/) - Tool for creating various 3D graphics, including photogrammetry, HDR skyboxes, and LIDAR meshing.
+
+### Avatars
+
+- [VRoid Studio](https://vroid.com/en/studio) - Free app to create anime-style 3D characters and export them as VRM avatars.
 
 ### Viewers
 
@@ -280,6 +289,7 @@ Tech Corner · 2026–2027
 ### Molding
 
 - [3D Mold Creator](https://www.solidworks.com/product/3d-mold-creator) - 3D mold design.
+- [laser cutting](https://head.hesge.ch/node/6874) - Equipped with a laser cutting machine which what we can slice, carve, and etch a wide range of materials. 
 
 ## Spaces 
 
