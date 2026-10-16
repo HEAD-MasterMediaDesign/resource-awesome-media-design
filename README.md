@@ -256,6 +256,10 @@ Tech Corner · 2026–2027
 
 - [Meshroom](https://meshroom.org/download/) - Tool for creating various 3D graphics, including photogrammetry, HDR skyboxes, and LIDAR meshing.
 
+### Avatars
+
+- [VRoid Studio](https://vroid.com/en/studio) - Free app to create anime-style 3D characters and export them as VRM avatars.
+
 ### Viewers
 
 - [noclip.website](https://noclip.website/) - Viewer for video game levels in the browser.
