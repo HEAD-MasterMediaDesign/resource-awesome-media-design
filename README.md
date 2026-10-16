@@ -20,7 +20,6 @@ Tech Corner · 2026–2027
 - [Game engines](#game-engines)
 - [Hardware](#hardware)
 - [Digital fabrication](#digital-fabrication)
-- [Spaces](#spaces)
 - [Learning](#learning)
 
 ## Coding
@@ -71,6 +70,10 @@ Tech Corner · 2026–2027
 - [nvm](https://github.com/nvm-sh/nvm) - Version manager for Node.js.
 
 ## Real time
+
+### Spaces
+
+- [Greybox](https://head-pool-image-son.ch/passeports/grey-box) - a 50m² specialized audiovisual creation and projection room located in Building H
 
 ### 3D on the web
 
@@ -276,10 +279,6 @@ Tech Corner · 2026–2027
 - [Distrelec](https://www.distrelec.ch/) - Shop for electronic parts.
 
 ## Digital fabrication
-
-## Spaces 
-
-- [Pool numérique](https://head.hesge.ch/formations-recherche/pool-numerique) - Place to get help with technical stuff at HEAD. 
 
 ### CAD
 
