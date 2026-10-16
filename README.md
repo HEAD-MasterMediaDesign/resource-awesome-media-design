@@ -143,7 +143,7 @@ Tech Corner · 2026–2027
 
 ### Print shop
 
-- [Pôle édition et impression](https://pole-edition-impression.campus.hesge.ch/) - Print and publishing workshops at HEAD.
+- [Pôle édition et impression](https://pole-edition-impression.campus.hesge.ch/) - Print and publishing workshops at HEAD. [Recharge your paying card](https://app.hesge.ch/monetique) before going.
 
 ### Risograph
 
