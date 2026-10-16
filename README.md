@@ -277,6 +277,8 @@ Tech Corner · 2026–2027
 
 ## Digital fabrication
 
+- [laser cutting](https://head.hesge.ch/en/students/technical-workshops/cercco) - Experimentation Centre that is equipped with a laser cutting machine which what we can slice, carve, and etch a wide range of materials. 
+
 ## Spaces 
 
 - [Pool numérique](https://head.hesge.ch/formations-recherche/pool-numerique) - Place to get help with technical stuff at HEAD. 
