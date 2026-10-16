@@ -20,7 +20,6 @@ Tech Corner · 2026–2027
 - [Game engines](#game-engines)
 - [Hardware](#hardware)
 - [Digital fabrication](#digital-fabrication)
-- [Spaces](#spaces)
 - [Learning](#learning)
 
 ## Coding
@@ -74,7 +73,7 @@ Tech Corner · 2026–2027
 
 ### Spaces
 
-- [GreyBox](https://head-pool-image-son.ch/passeports/grey-box) - A specialized 50-square-meter media and video-projection studio located in Building A.
+- [Grey Box](https://head-pool-image-son.ch/passeports/grey-box) - Studio of 50 m² at HEAD for media and video projection, in Building A.
 
 ### 3D on the web
 
@@ -111,9 +110,9 @@ Tech Corner · 2026–2027
 
 ### Website builders
 
+- [Cargo](https://cargo.site/) - Website builder for designers and artists.
 - [Framer](https://www.framer.com/) - Website builder with design tools.
 - [Wix](https://www.wix.com/) - Website builder with templates.
-- [Cargo](https://cargo.site/) - Website builder for designers and artists.
 
 ### Fun websites
 
@@ -142,15 +141,17 @@ Tech Corner · 2026–2027
 
 ## Print
 
-- [adobeexpress](https://www.adobe.com/express/create/banner) - Free tool to design banners for any platform: social media headers, web ads, event signage, and more.
-
 ### Layout
 
 - [InDesign](https://www.adobe.com/products/indesign.html) - Page layout software by Adobe.
 
+### Banner printing
+
+- [Adobe Express](https://www.adobe.com/express/create/banner) - Online design tool with banner templates and a free plan.
+
 ### Print shop
 
-- [Pôle édition et impression](https://pole-edition-impression.campus.hesge.ch/) - Print and publishing workshops at HEAD. [Recharge your paying card](https://app.hesge.ch/monetique) before going.
+- [Pôle édition et impression](https://pole-edition-impression.campus.hesge.ch/) - Print and publishing workshops at HEAD, paid with your [rechargeable card](https://app.hesge.ch/monetique).
 
 ### Risograph
 
@@ -256,12 +257,12 @@ Tech Corner · 2026–2027
 - [Cinema 4D](https://www.maxon.net/cinema-4d) - 3D modelling and animation, popular for motion design.
 - [Houdini](https://www.sidefx.com/products/houdini/) - Procedural 3D and visual effects, with a free learning version.
 - [Maya](https://www.autodesk.com/products/maya/overview) - 3D modelling and animation for film and games.
+- [SheepIt](https://www.sheepit-renderfarm.com/home) - Free distributed render farm for Blender.
 - [SketchUp](https://sketchup.trimble.com/) - Simple 3D modelling for architecture and design.
-- [SheepIt](https://www.sheepit-renderfarm.com/home) - A free distributed render farm for Blender.
 
 ### Photogrammetry
 
-- [Meshroom](https://meshroom.org/download/) - Tool for creating various 3D graphics, including photogrammetry, HDR skyboxes, and LIDAR meshing.
+- [Meshroom](https://meshroom.org/) - Open-source photogrammetry software by AliceVision.
 
 ### Avatars
 
@@ -291,18 +292,11 @@ Tech Corner · 2026–2027
 
 - [Distrelec](https://www.distrelec.ch/) - Shop for electronic parts.
 
+### Spaces
+
+- [Pool numérique](https://head.hesge.ch/formations-recherche/pool-numerique) - Place to get help with technical projects at HEAD.
+
 ## Digital fabrication
-
-- [laser cutting](https://head.hesge.ch/node/6874) - Equipped with a laser cutting machine which what we can slice, carve, and etch a wide range of materials. 
-
-### Molding
-
-- [3D Mold Creator](https://www.solidworks.com/product/3d-mold-creator) - 3D mold design.
-
-
-## Spaces 
-
-- [Pool numérique](https://head.hesge.ch/formations-recherche/pool-numerique) - Place to get help with technical stuff at HEAD. 
 
 ### CAD
 
@@ -310,6 +304,14 @@ Tech Corner · 2026–2027
 - [FreeCAD](https://www.freecad.org/) - Free and open-source parametric 3D CAD.
 - [Fusion](https://www.autodesk.com/products/fusion-360/overview) - 3D CAD and CAM, free for students and personal use.
 - [Rhino](https://www.rhino3d.com/) - 3D modelling for design and fabrication.
+
+### Laser cutting
+
+- [Materials and Prototyping Pool](https://head.hesge.ch/node/6874) - Workshops at HEAD with laser cutters for many materials.
+
+### Molding
+
+- [3D Mold Creator](https://www.solidworks.com/product/3d-mold-creator) - SOLIDWORKS add-in to design molds.
 
 ### Courses
 
@@ -331,7 +333,7 @@ Tech Corner · 2026–2027
 - [Claude Academy](https://academy.claude.com/) - Courses on Claude and Claude Code.
 - [The Context Course](https://huggingface.co/learn/context-course/unit0/introduction) - Hugging Face course on context for AI coding agents.
 - [The Linux Command Line](https://linuxcommand.org/tlcl.php) - Book on the command line by William Shotts, free to read online.
-- [The Odin Project](https://www.theodinproject.com/paths) - Open-source curriculum for learning web development (HTML-CSS-JavaScript foundations and more advanced courses). 
+- [The Odin Project](https://www.theodinproject.com/paths) - Free and open-source curriculum for web development.
 - [The Unix Shell](https://swcarpentry.github.io/shell-novice/) - Software Carpentry lesson on the shell.
 
 ### References
