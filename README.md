@@ -20,7 +20,6 @@ Tech Corner · 2026–2027
 - [Game engines](#game-engines)
 - [Hardware](#hardware)
 - [Digital fabrication](#digital-fabrication)
-- [Spaces](#spaces)
 - [Learning](#learning)
 
 ## Coding
@@ -277,9 +276,7 @@ Tech Corner · 2026–2027
 
 ## Digital fabrication
 
-## Spaces 
-
-- [Pool numérique](https://head.hesge.ch/formations-recherche/pool-numerique) - Place to get help with technical stuff at HEAD. 
+- [laser cutting](https://head.hesge.ch/en/students/technical-workshops/cercco) - Experimentation Centre that is equipped with a laser cutting machine which what we can slice, carve, and etch a wide range of materials. 
 
 ### CAD
 
@@ -308,7 +305,6 @@ Tech Corner · 2026–2027
 - [Claude Academy](https://academy.claude.com/) - Courses on Claude and Claude Code.
 - [The Context Course](https://huggingface.co/learn/context-course/unit0/introduction) - Hugging Face course on context for AI coding agents.
 - [The Linux Command Line](https://linuxcommand.org/tlcl.php) - Book on the command line by William Shotts, free to read online.
-- [The Odin Project](https://www.theodinproject.com/paths) - Open-source curriculum for learning web development (HTML-CSS-JavaScript foundations and more advanced courses). 
 - [The Unix Shell](https://swcarpentry.github.io/shell-novice/) - Software Carpentry lesson on the shell.
 
 ### References
