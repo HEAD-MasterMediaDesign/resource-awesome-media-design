@@ -255,6 +255,10 @@ Tech Corner · 2026–2027
 
 - [noclip.website](https://noclip.website/) - Viewer for video game levels in the browser.
 
+### Photogrammetry
+
+- [Meshroom](meshroom.org/download/) - Tool for creating various 3D graphics, including photogrammetry, HDR skyboxes, and LIDAR meshing.
+
 ## Game engines
 
 - [Bitsy](https://bitsy.org/) - Free editor for small pixel games.
