@@ -251,6 +251,10 @@ Tech Corner · 2026–2027
 - [Maya](https://www.autodesk.com/products/maya/overview) - 3D modelling and animation for film and games.
 - [SketchUp](https://sketchup.trimble.com/) - Simple 3D modelling for architecture and design.
 
+### Avatars
+
+- [VRoid Studio](https://vroid.com/en/studio) - Free app to create anime-style 3D characters and export them as VRM avatars.
+
 ### Viewers
 
 - [noclip.website](https://noclip.website/) - Viewer for video game levels in the browser.
