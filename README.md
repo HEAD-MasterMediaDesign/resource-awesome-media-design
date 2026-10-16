@@ -276,6 +276,10 @@ Tech Corner · 2026–2027
 
 ## Digital fabrication
 
+## Spaces 
+
+- [Pool numérique](https://head.hesge.ch/formations-recherche/pool-numerique) - Place to get help with technical stuff at HEAD. 
+
 ### CAD
 
 - [AutoCAD](https://www.autodesk.com/products/autocad/overview) - 2D and 3D CAD software.
