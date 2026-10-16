@@ -137,7 +137,7 @@ Tech Corner · 2026–2027
 
 ## Print
 
-- [adobeexpress](https://www.adobe.com/express/create/banner)](https://link) - Free tool to design banners for any platform: social media headers, web ads, event signage, and more.
+- [adobeexpress](https://www.adobe.com/express/create/banner) - Free tool to design banners for any platform: social media headers, web ads, event signage, and more.
 
 ### Layout
 
