@@ -252,6 +252,10 @@ Tech Corner · 2026–2027
 - [SketchUp](https://sketchup.trimble.com/) - Simple 3D modelling for architecture and design.
 - [SheepIt](https://www.sheepit-renderfarm.com/home) - A free distributed render farm for Blender.
 
+### Photogrammetry
+
+- [Meshroom](https://meshroom.org/download/) - Tool for creating various 3D graphics, including photogrammetry, HDR skyboxes, and LIDAR meshing.
+
 ### Viewers
 
 - [noclip.website](https://noclip.website/) - Viewer for video game levels in the browser.
