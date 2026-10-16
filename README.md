@@ -108,7 +108,7 @@ Tech Corner · 2026–2027
 
 - [Framer](https://www.framer.com/) - Website builder with design tools.
 - [Wix](https://www.wix.com/) - Website builder with templates.
-- [Cargo](https://cargo.site.com/) - Website builder for designers and artists.
+- [Cargo](https://cargo.site/) - Website builder for designers and artists.
 
 ### Fun websites
 
