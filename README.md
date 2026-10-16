@@ -312,6 +312,7 @@ Tech Corner · 2026–2027
 - [Claude Academy](https://academy.claude.com/) - Courses on Claude and Claude Code.
 - [The Context Course](https://huggingface.co/learn/context-course/unit0/introduction) - Hugging Face course on context for AI coding agents.
 - [The Linux Command Line](https://linuxcommand.org/tlcl.php) - Book on the command line by William Shotts, free to read online.
+- [The Odin Project](https://www.theodinproject.com/paths) - Open-source curriculum for learning web development (HTML-CSS-JavaScript foundations and more advanced courses). 
 - [The Unix Shell](https://swcarpentry.github.io/shell-novice/) - Software Carpentry lesson on the shell.
 
 ### References
