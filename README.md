@@ -286,10 +286,12 @@ Tech Corner · 2026–2027
 
 ## Digital fabrication
 
+- [laser cutting](https://head.hesge.ch/node/6874) - Equipped with a laser cutting machine which what we can slice, carve, and etch a wide range of materials. 
+
 ### Molding
 
 - [3D Mold Creator](https://www.solidworks.com/product/3d-mold-creator) - 3D mold design.
-- [laser cutting](https://head.hesge.ch/node/6874) - Equipped with a laser cutting machine which what we can slice, carve, and etch a wide range of materials. 
+
 
 ## Spaces 
 
