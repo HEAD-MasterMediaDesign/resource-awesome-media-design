@@ -250,6 +250,7 @@ Tech Corner · 2026–2027
 - [Houdini](https://www.sidefx.com/products/houdini/) - Procedural 3D and visual effects, with a free learning version.
 - [Maya](https://www.autodesk.com/products/maya/overview) - 3D modelling and animation for film and games.
 - [SketchUp](https://sketchup.trimble.com/) - Simple 3D modelling for architecture and design.
+- [SheepIt](https://www.sheepit-renderfarm.com/home) - A free distributed render farm for Blender.
 
 ### Viewers
 
