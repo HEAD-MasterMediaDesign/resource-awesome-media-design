@@ -72,6 +72,10 @@ Tech Corner · 2026–2027
 
 ## Real time
 
+### Spaces
+
+- [GreyBox](https://head-pool-image-son.ch/passeports/grey-box) - A specialized 50-square-meter media and video-projection studio located in Building A.
+
 ### 3D on the web
 
 - [Three.js](https://threejs.org/) - JavaScript library for 3D in the browser.
