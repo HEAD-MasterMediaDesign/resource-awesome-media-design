@@ -73,7 +73,7 @@ Tech Corner · 2026–2027
 
 ### Spaces
 
-- [Greybox](https://head-pool-image-son.ch/passeports/grey-box) - a 50m² specialized audiovisual creation and projection room located in Building H
+- [GreyBox](https://head-pool-image-son.ch/passeports/grey-box) - A specialized 50-square-meter media and video-projection studio located in Building A.
 
 ### 3D on the web
 
@@ -141,13 +141,15 @@ Tech Corner · 2026–2027
 
 ## Print
 
+- [adobeexpress](https://www.adobe.com/express/create/banner) - Free tool to design banners for any platform: social media headers, web ads, event signage, and more.
+
 ### Layout
 
 - [InDesign](https://www.adobe.com/products/indesign.html) - Page layout software by Adobe.
 
 ### Print shop
 
-- [Pôle édition et impression](https://pole-edition-impression.campus.hesge.ch/) - Print and publishing workshops at HEAD.
+- [Pôle édition et impression](https://pole-edition-impression.campus.hesge.ch/) - Print and publishing workshops at HEAD. [Recharge your paying card](https://app.hesge.ch/monetique) before going.
 
 ### Risograph
 
@@ -291,6 +293,11 @@ Tech Corner · 2026–2027
 ## Digital fabrication
 
 - [laser cutting](https://head.hesge.ch/node/6874) - Equipped with a laser cutting machine which what we can slice, carve, and etch a wide range of materials. 
+
+### Molding
+
+- [3D Mold Creator](https://www.solidworks.com/product/3d-mold-creator) - 3D mold design.
+
 
 ## Spaces 
 
