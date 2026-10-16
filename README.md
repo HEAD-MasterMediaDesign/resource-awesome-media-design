@@ -20,6 +20,7 @@ Tech Corner · 2026–2027
 - [Game engines](#game-engines)
 - [Hardware](#hardware)
 - [Digital fabrication](#digital-fabrication)
+- [Spaces](#spaces)
 - [Learning](#learning)
 
 ## Coding
