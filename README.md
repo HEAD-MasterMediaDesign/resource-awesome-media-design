@@ -20,6 +20,7 @@ Tech Corner · 2026–2027
 - [Game engines](#game-engines)
 - [Hardware](#hardware)
 - [Digital fabrication](#digital-fabrication)
+- [Spaces](#spaces)
 - [Learning](#learning)
 
 ## Coding
@@ -250,6 +251,15 @@ Tech Corner · 2026–2027
 - [Houdini](https://www.sidefx.com/products/houdini/) - Procedural 3D and visual effects, with a free learning version.
 - [Maya](https://www.autodesk.com/products/maya/overview) - 3D modelling and animation for film and games.
 - [SketchUp](https://sketchup.trimble.com/) - Simple 3D modelling for architecture and design.
+- [SheepIt](https://www.sheepit-renderfarm.com/home) - A free distributed render farm for Blender.
+
+### Photogrammetry
+
+- [Meshroom](https://meshroom.org/download/) - Tool for creating various 3D graphics, including photogrammetry, HDR skyboxes, and LIDAR meshing.
+
+### Avatars
+
+- [VRoid Studio](https://vroid.com/en/studio) - Free app to create anime-style 3D characters and export them as VRM avatars.
 
 ### Viewers
 
@@ -276,6 +286,12 @@ Tech Corner · 2026–2027
 - [Distrelec](https://www.distrelec.ch/) - Shop for electronic parts.
 
 ## Digital fabrication
+
+- [laser cutting](https://head.hesge.ch/node/6874) - Equipped with a laser cutting machine which what we can slice, carve, and etch a wide range of materials. 
+
+## Spaces 
+
+- [Pool numérique](https://head.hesge.ch/formations-recherche/pool-numerique) - Place to get help with technical stuff at HEAD. 
 
 ### CAD
 
@@ -304,6 +320,7 @@ Tech Corner · 2026–2027
 - [Claude Academy](https://academy.claude.com/) - Courses on Claude and Claude Code.
 - [The Context Course](https://huggingface.co/learn/context-course/unit0/introduction) - Hugging Face course on context for AI coding agents.
 - [The Linux Command Line](https://linuxcommand.org/tlcl.php) - Book on the command line by William Shotts, free to read online.
+- [The Odin Project](https://www.theodinproject.com/paths) - Open-source curriculum for learning web development (HTML-CSS-JavaScript foundations and more advanced courses). 
 - [The Unix Shell](https://swcarpentry.github.io/shell-novice/) - Software Carpentry lesson on the shell.
 
 ### References
