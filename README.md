@@ -317,6 +317,12 @@ Tech Corner · 2026–2027
 
 - [How to Make (Almost) Anything](https://pub.cba.mit.edu/863.26/site/) - MIT course site on digital fabrication (HTMAA).
 
+### 3D printing
+
+- [PrusaSlicer](https://www.prusa3d.com/p/prusaslicer/) - Free and open-source slicer for preparing 3D models for printing.
+- [ideaMaker](https://www.raise3d.com/ideamaker/) - 3D slicing software for preparing models for printing.
+- [OrcaSlicer](https://www.orcaslicer.com/) - Free and open-source slicer for FDM 3D printers.
+
 ## Learning
 
 ### Flashcards
