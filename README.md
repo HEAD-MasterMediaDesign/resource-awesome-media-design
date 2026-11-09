@@ -180,6 +180,7 @@ Tech Corner · 2026–2027
 ### Chat
 
 - [Claude](https://claude.ai/) - AI assistant by Anthropic.
+- [StudyArena](https://studyarena.com) - Compare three AI answers to a study question for free, then vote and reveal the models.
 
 ### Agent harnesses
 
